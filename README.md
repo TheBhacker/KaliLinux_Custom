@@ -1,2 +1,2 @@
 # KaliLinux_Custom
-Custom BSPWM installation script
+Custom BSPWM installation script (Pendiente a hacer)
